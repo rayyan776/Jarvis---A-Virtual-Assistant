@@ -113,8 +113,6 @@ JARVIS is an intelligent virtual assistant that brings convenience to your finge
 ## Contributing
 Feel free to fork the repository and make contributions. For major changes, please open an issue to discuss your ideas.
 
-## License
-This project is licensed under the MIT License.
 
 ---
 ### Have Fun Interacting with JARVIS!
